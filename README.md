@@ -1,1 +1,0 @@
-# Multi_Class_-Animal_Recognition
